@@ -9,19 +9,19 @@ The goal of the project is to develop an application that will offer users the a
 ## Goal of aplication: 
 The application is intended for users who want to find out the nutritional value of certain recipes.
 
-## Scope Inclusions and Exclusions:
+## Scopes:
 - user registration and login
 - storage of personal data
-- searching for a recipe
-- display of nutritional values 
-- the possibility of choosing quality food
-- recipe storage
-- advanced recipe search mode
-- the ability to select user function settings
+- searching for a recipes
+- display of nutritional values of recepies
+- the possibility to store selected recepies
+- advanced search mode
+- the ability to select user opretion mode
 
 ## Modes of operation:
-- possibility to choose settings of user functions:
-- the ability to select basic search functionalities
-- the ability to select more advanced search functionalities
+ The user can select in which mode he wants to search recepies.
+ Search mode:
+  - basic search
+  - advanced search
 
 
