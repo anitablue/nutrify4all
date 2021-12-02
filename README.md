@@ -22,6 +22,9 @@ The application is intended for users who want to find out the nutritional value
 - advanced search mode
 - the ability to select user's operation mode
 
+![Flowchart of User Story](https://user-images.githubusercontent.com/11754851/144491994-eb5f3d46-7f49-4bd1-99ba-4ebf71cd2bf5.png)
+
+
 ## Modes of operation:
  The user can select in which mode he wants to search recepies.
  
