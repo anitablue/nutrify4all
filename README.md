@@ -4,7 +4,11 @@ Nutrify4All is an API and web application serving you with the nutrients inside 
 <img src="/res/img/icon_nutrify4all.png" width="100"></img>
 
 ## Project Goals
-The goal of the project is to develop an application that will offer users the ability to search for recipes on the Internet.
+The goal of the project is to develop an application that will offer users the ability to search for the nutritional value of a recipe.
+Right now recipes from the following sites are supported: 
+
+- ?
+- ?
 
 ## Goal of aplication: 
 The application is intended for users who want to find out the nutritional value of certain recipes.
