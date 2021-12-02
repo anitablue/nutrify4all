@@ -20,7 +20,8 @@ The application is intended for users who want to find out the nutritional value
 
 ## Modes of operation:
  The user can select in which mode he wants to search recepies.
- Search mode:
+ 
+ Search modes:
   - basic search
   - advanced search
 
