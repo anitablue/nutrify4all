@@ -16,7 +16,7 @@ The application is intended for users who want to find out the nutritional value
 - display of nutritional values of recepies
 - the possibility to store selected recepies
 - advanced search mode
-- the ability to select user opretion mode
+- the ability to select user's operation mode
 
 ## Modes of operation:
  The user can select in which mode he wants to search recepies.
