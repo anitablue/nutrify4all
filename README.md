@@ -14,7 +14,7 @@ Right now recipes from the following sites are supported:
 The application is intended for users who want to find out the nutritional value of certain recipes.
 
 ## Scopes:
-[-] user registration and login
+- user registration and login
 - storage of personal data
 - searching for a recipes
 - display of nutritional values of recepies
